@@ -2,7 +2,7 @@
 
 During my research, I faced a huge challenge: analyzing patient data to predict disease severity and ICU admission risk was slow, complicated, and often lacked transparency. I wanted a solution that was fast, accurate, and explainable.
 
-So, I built this Clinical Decision Support System (CDSS) — a Python-powered AI tool that helps healthcare professionals make data-driven decisions effortlessly.
+So, I built this Clinical Decision Support System (CDSS),  a Python-powered AI tool that helps healthcare professionals make data-driven decisions effortlessly.
 
 ## 🚀 What It Does
 
@@ -103,7 +103,7 @@ I welcome contributions! Fork the repo, experiment, and submit a PR. Your ideas 
 
 ## 📜 License
 
-MIT License — see LICENSE for details.
+MIT License ,  see LICENSE for details.
 
 ## 🙏 Acknowledgements
 
@@ -112,4 +112,5 @@ Python & Streamlit
 SHAP for explainable AI
 
 Scikit-learn for ML models
+
 
