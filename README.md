@@ -95,7 +95,7 @@ I’m always open to collaborations, feedback, and exciting research opportuniti
 
 Email: irfanaaslam69@gmail.com
 
-LinkedIn: linkedin.com/in/irfanaaslam
+LinkedIn: www.linkedin.com/in/irfana-aslam-b26751176
 
 ## 🤝 Contributing
 
@@ -112,3 +112,4 @@ Python & Streamlit
 SHAP for explainable AI
 
 Scikit-learn for ML models
+
