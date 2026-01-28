@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large binaries (optional)
+*.dll
+*.pyd
+*.so
+*.zip
